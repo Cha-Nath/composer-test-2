@@ -8,12 +8,6 @@
         "symfony/yaml": "^4.3",
         "nathanchanteux/composer-test" : "dev-master@dev"
     },
-    "authors": [
-        {
-            "name": "Chanteux Nathan",
-            "email": "firminchanteux@gmail.com"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "nc\\": "nc/"

@@ -6,7 +6,7 @@
         "php": "^7.1.3",
         "monolog/monolog": "^2.0",
         "symfony/yaml": "^4.3",
-        "nathanchanteux/composer-test" : "@dev"
+        "nathanchanteux/composer-test" : "^1.0.x-dev"
     },
     "authors": [
         {
@@ -22,7 +22,7 @@
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1-dev"
+            "dev-master": "1.0.x-dev"
         }
     }
 }
